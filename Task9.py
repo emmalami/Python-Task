@@ -8,8 +8,7 @@ def greet():
 greet()
 
 def emty():
-
- emty()
+    pass
 
 
 def add(num1, num2):
