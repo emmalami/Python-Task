@@ -5,3 +5,5 @@
 greet = lambda: print("Hello world")
 
 greet()
+
+def
