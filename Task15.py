@@ -10,3 +10,7 @@ fruits = ["banana","cherries","apple","orange"]
 print("list:", fruits)
 fruits.sort()
 print("sort:",fruits)
+fruits.append("wallnut")
+print("append:", fruits)
+fruits.insert(0, "rapsberries")
+print("insert:", fruits)
