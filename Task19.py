@@ -23,4 +23,4 @@ class Human:
         self.name = "unknown"
 
 Human = Human()
-print("Human:",Human.race, Human.continent)
+print("Human:",Human.leg_count, Human.continent)
