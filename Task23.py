@@ -16,7 +16,7 @@ class User:
 class ActiveUser(User):
 
     def get_password(self):
-        return "********"
+        return "*********"
 
 
 User = User()
