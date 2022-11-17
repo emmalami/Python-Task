@@ -9,4 +9,4 @@ def simple_interest(principal, rate, time):
     return result
 
 
-simple_interest(5000, 14, 5)
+simple_interest(8000, 14, 5)
